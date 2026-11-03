@@ -21,6 +21,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - run: node --check scripts/sync-website.mjs
       - run: node --test tests/sync.test.mjs
       - run: node scripts/sync-website.mjs
         env:
