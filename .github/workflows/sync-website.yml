@@ -1,0 +1,21 @@
+name: Sync Pixlume website
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: pixlume-publishing
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node scripts/sync-website.mjs
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
