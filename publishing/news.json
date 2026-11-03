@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "revision": "d9c639a3dc0b98ffadde2b1b30648b95ce7bde7a8cf775ebe67f81a543456f67",
+  "revision": "8e6d03db06a9bbf929603a06029e8dc7c5a934b8015b509089821649612bd07e",
   "homePageURL": "https://pixlume.app",
   "feedURL": "https://pixlume.app/api/news",
-  "updatedAt": "2026-11-03T02:15:51.801Z",
+  "updatedAt": "2026-11-03T23:38:21.745Z",
   "announcements": [],
   "releases": [
     {
@@ -37,7 +37,7 @@
       "version": "0.8.0",
       "build": null,
       "publishedAt": "2026-10-19T21:00:00.000Z",
-      "updatedAt": "2026-11-03T02:15:51.801Z",
+      "updatedAt": "2026-11-03T23:38:21.745Z",
       "platforms": [
         "macOS"
       ],
@@ -61,7 +61,7 @@
     "version": "0.8.0",
     "build": null,
     "publishedAt": "2026-10-19T21:00:00.000Z",
-    "updatedAt": "2026-11-03T02:15:51.801Z",
+    "updatedAt": "2026-11-03T23:38:21.745Z",
     "platforms": [
       "macOS"
     ],
