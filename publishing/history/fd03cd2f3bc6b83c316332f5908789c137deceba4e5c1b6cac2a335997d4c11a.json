@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "revision": "fd03cd2f3bc6b83c316332f5908789c137deceba4e5c1b6cac2a335997d4c11a",
+  "homePageURL": "https://pixlume.app",
+  "feedURL": "https://pixlume.app/api/news",
+  "updatedAt": "2026-11-04T18:08:23.814Z",
+  "announcements": [
+    {
+      "id": "4b784680-6471-447b-8906-77c297c4b596",
+      "title": "Test",
+      "summary": "Test",
+      "publishedAt": "2026-11-04T18:08:23.814Z",
+      "updatedAt": "2026-11-04T18:08:23.814Z",
+      "category": "news",
+      "categoryLabel": "Pixlume News",
+      "body": "",
+      "bodyMarkdown": "",
+      "url": "https://pixlume.app/news/test",
+      "featured": false,
+      "pinned": false,
+      "date": "2026-11-04T18:08:23.814Z",
+      "showInApp": true,
+      "kind": "announcement",
+      "description": "Test",
+      "platforms": [
+        "macOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "id": "7b39fe4f-5a17-462a-8d5a-46def57c1f19",
+      "title": "Pixlume 0.9.0 Beta 1 is now available!",
+      "summary": "Pixlume 0.9.0 Beta 1 is now available!",
+      "publishedAt": "2026-11-03T20:10:00.000Z",
+      "updatedAt": "2026-11-04T01:12:58.793Z",
+      "category": "news",
+      "categoryLabel": "Pixlume News",
+      "body": "We’re excited to announce the release of Pixlume 0.9.0 Beta 1! This release marks another step forward in Pixlume’s development, focusing on refining the experience across Pixlume Design and Pixlume Write. We’re continuing to improve reliability, compatibility, and everyday creative workflows as we prepare for future releases. Thank you to everyone helping us test Pixlume. Your feedback is helping shape the future of the app.",
+      "bodyMarkdown": "We’re excited to announce the release of Pixlume 0.9.0 Beta 1! This release marks another step forward in Pixlume’s development, focusing on refining the experience across Pixlume Design and Pixlume Write. We’re continuing to improve reliability, compatibility, and everyday creative workflows as we prepare for future releases. Thank you to everyone helping us test Pixlume. Your feedback is helping shape the future of the app.",
+      "url": "https://pixlume.app/news/pixlume-0-9-0-beta-1-is-now-available",
+      "featured": false,
+      "pinned": false,
+      "date": "2026-11-03T20:10:00.000Z",
+      "showInApp": true,
+      "kind": "announcement",
+      "description": "Pixlume 0.9.0 Beta 1 is now available!",
+      "platforms": [
+        "macOS",
+        "iPadOS"
+      ]
+    }
+  ],
+  "releases": [
+    {
+      "id": "07c544a3-1570-495a-be5b-b262595d65c7",
+      "kind": "release",
+      "title": "Pixlume 0.9.0",
+      "description": "",
+      "version": "0.9.0",
+      "build": "44",
+      "publishedAt": "2026-10-20T00:48:00.000Z",
+      "updatedAt": "2026-11-04T00:40:30.339Z",
+      "platforms": [
+        "macOS"
+      ],
+      "minimumOS": "macOS 14 Sonoma",
+      "architectures": "Apple silicon and Intel",
+      "bodyMarkdown": "",
+      "url": "https://pixlume.app/releases/0.9.0",
+      "downloadURL": "https://pixlume.app/api/releases/07c544a3-1570-495a-be5b-b262595d65c7/download",
+      "fileName": "Pixlume.zip",
+      "fileSize": "6754935",
+      "sha256": "2014fb894f9f6d8198e49390abfeb69868851c90a33d65b0aa9a8cb2747f0e04"
+    },
+    {
+      "id": "778e0659-ce96-41d6-b0d9-a53961b2111f",
+      "kind": "release",
+      "title": "Pixlume 0.8.0 — Pixlume 0.8.0 Beta 1 — The Creative Suite Preview",
+      "description": "Your creativity. One workspace. Endless possibilities.\r\n\r\nIntroducing the first beta of Pixlume, a native creative suite for macOS that brings professional photo editing, graphic design, document creation, and PDF editing together in one seamless workspace.\r\n\r\nWith Pixlume Design and Pixlume Write, you can move between visual projects and documents without switching applications. Create layered designs, enhance images, format professional documents, and work with PDFs using powerful tools built around a unified, modern interface.\r\n\r\nThis first beta marks an exciting step toward our vision of making creative software more accessible, flexible, and enjoyable.",
+      "version": "0.8.0",
+      "build": null,
+      "publishedAt": "2026-10-19T21:00:00.000Z",
+      "updatedAt": "2026-11-03T23:38:21.745Z",
+      "platforms": [
+        "macOS"
+      ],
+      "minimumOS": "macOS 14 Sonoma",
+      "architectures": "Apple silicon and Intel",
+      "bodyMarkdown": "Your creativity. One workspace. Endless possibilities.\r\n\r\nIntroducing the first beta of Pixlume, a native creative suite for macOS that brings professional photo editing, graphic design, document creation, and PDF editing together in one seamless workspace.\r\n\r\nWith Pixlume Design and Pixlume Write, you can move between visual projects and documents without switching applications. Create layered designs, enhance images, format professional documents, and work with PDFs using powerful tools built around a unified, modern interface.\r\n\r\nThis first beta marks an exciting step toward our vision of making creative software more accessible, flexible, and enjoyable.\n\n## New features\nPixlume Design — Create Without Limits\r\n\r\n* Layer-Based Editing: Create and manage complex compositions using layers, groups, masks, blending modes, and effects.\r\n* Photoshop File Support: Import PSD and PSB documents, including supported layered content.\r\n* Professional Image Editing: Work with brushes, selections, transformations, color adjustments, and image effects.\r\n* Advanced Typography: Create and customize text with rich styling and artistic effects.\r\n* Text Warp: Transform typography using 15 warp presets and adjustable distortion controls.\r\n* Flexible Canvas: Create documents with custom dimensions, resolutions, orientations, and backgrounds.\r\n* Image Export: Export designs to popular image formats.\r\n\r\nPixlume Write — Create Beyond Words\r\n\r\n* Document Creation: Write and format documents with professional typography and page layouts.\r\n* DOCX Compatibility: Import and export Microsoft Word documents with supported formatting.\r\n* Tables and Images: Combine text, images, and structured content.\r\n* Page Layout Tools: Customize page dimensions, orientation, margins, and document formatting.\r\n* Artistic Text: Add creative typography and visual text effects.\r\n* Duplex Card Designer: Create front-and-back cards with customizable dimensions, image fitting, and print layouts.\r\n* PDF Export: Turn your documents into shareable PDF files.\r\n\r\nPixlume PDF — Take Control of Your Documents\r\n\r\n* PDF Viewing: Open and navigate multipage PDF documents.\r\n* Annotations: Highlight, underline, draw, and add notes.\r\n* PDF Organization: Reorder, rotate, duplicate, extract, merge, and split pages.\r\n* Forms and Signatures: Fill supported PDF forms and add signatures.\r\n* Content Editing: Edit supported PDF text, images, and vector elements, with limitations for certain PDF structures.\r\n* Export Tools: Save and export PDF content.\r\n\r\nCreative Flow — Everything Connected\r\n\r\n* Unified Workspace: Access Design, Write, and PDF tools in one application.\r\n* Document Tabs: Switch between projects without opening separate editor windows.\r\n* Recovery and Autosave: Help protect unfinished work with recovery backups.\r\n* Recent Projects: Return to previously opened documents.\r\n* Native macOS Experience: Familiar menus, keyboard shortcuts, and system integration.\r\n* Consistent Interface: Shared controls and styling across creative workspaces.\n\n## Improvements\nPixlume is currently in active development. Some features may be incomplete, behave unexpectedly, or change in future updates.\r\n\r\nKnown limitations may include printing, advanced document compatibility, and certain editing operations.\r\n\r\nWe recommend keeping backup copies of important projects while testing this beta.\r\n\r\nHelp Shape Pixlume\r\n\r\nYour feedback helps make Pixlume better.\r\n\r\nFound a bug? Have an idea for a new feature? Use the feedback tools on our website to share your experience.\r\n\r\nDownload Pixlume for Mac — Free Beta\r\n\r\nCreate beyond limits. Create with Pixlume.",
+      "url": "https://pixlume.app/releases/0.8.0",
+      "downloadURL": "https://pixlume.app/api/releases/778e0659-ce96-41d6-b0d9-a53961b2111f/download",
+      "fileName": "Pixlume.zip",
+      "fileSize": "9899257",
+      "sha256": "a636e0a1437d4df032874d5f8608cdf0235226892a4ed5203675b51f1ee45cff"
+    }
+  ],
+  "latestRelease": {
+    "id": "07c544a3-1570-495a-be5b-b262595d65c7",
+    "kind": "release",
+    "title": "Pixlume 0.9.0",
+    "description": "",
+    "version": "0.9.0",
+    "build": "44",
+    "publishedAt": "2026-10-20T00:48:00.000Z",
+    "updatedAt": "2026-11-04T00:40:30.339Z",
+    "platforms": [
+      "macOS"
+    ],
+    "minimumOS": "macOS 14 Sonoma",
+    "architectures": "Apple silicon and Intel",
+    "bodyMarkdown": "",
+    "url": "https://pixlume.app/releases/0.9.0",
+    "downloadURL": "https://pixlume.app/api/releases/07c544a3-1570-495a-be5b-b262595d65c7/download",
+    "fileName": "Pixlume.zip",
+    "fileSize": "6754935",
+    "sha256": "2014fb894f9f6d8198e49390abfeb69868851c90a33d65b0aa9a8cb2747f0e04"
+  },
+  "updateNotification": {
+    "title": "A New Pixlume Update Is Available!",
+    "actions": [
+      "Update Now",
+      "Remind Me Later",
+      "What’s New"
+    ],
+    "mode": "download",
+    "sparkleConfiguredByThisIntegration": false
+  }
+}

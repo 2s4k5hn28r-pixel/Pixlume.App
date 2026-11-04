@@ -1,10 +1,32 @@
 {
   "schemaVersion": 1,
-  "revision": "e706be3d79efcc3a4efe60af5819c40a14518c72e77c485b5bc40495c0a69995",
+  "revision": "fd03cd2f3bc6b83c316332f5908789c137deceba4e5c1b6cac2a335997d4c11a",
   "homePageURL": "https://pixlume.app",
   "feedURL": "https://pixlume.app/api/news",
-  "updatedAt": "2026-11-04T01:12:58.793Z",
+  "updatedAt": "2026-11-04T18:08:23.814Z",
   "announcements": [
+    {
+      "id": "4b784680-6471-447b-8906-77c297c4b596",
+      "title": "Test",
+      "summary": "Test",
+      "publishedAt": "2026-11-04T18:08:23.814Z",
+      "updatedAt": "2026-11-04T18:08:23.814Z",
+      "category": "news",
+      "categoryLabel": "Pixlume News",
+      "body": "",
+      "bodyMarkdown": "",
+      "url": "https://pixlume.app/news/test",
+      "featured": false,
+      "pinned": false,
+      "date": "2026-11-04T18:08:23.814Z",
+      "showInApp": true,
+      "kind": "announcement",
+      "description": "Test",
+      "platforms": [
+        "macOS",
+        "iPadOS"
+      ]
+    },
     {
       "id": "7b39fe4f-5a17-462a-8d5a-46def57c1f19",
       "title": "Pixlume 0.9.0 Beta 1 is now available!",
