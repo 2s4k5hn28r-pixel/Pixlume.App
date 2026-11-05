@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "revision": "e706be3d79efcc3a4efe60af5819c40a14518c72e77c485b5bc40495c0a69995",
+  "revision": "4035d86110b48d60ee2cbe00997cfbaa22f19d5d34d44446809876fcfd4fdcf6",
   "homePageURL": "https://pixlume.app",
   "feedURL": "https://pixlume.app/api/news",
-  "updatedAt": "2026-11-04T01:12:58.793Z",
+  "updatedAt": "2026-11-05T23:20:44.317Z",
   "announcements": [
     {
       "id": "7b39fe4f-5a17-462a-8d5a-46def57c1f19",
@@ -29,6 +29,29 @@
     }
   ],
   "releases": [
+    {
+      "id": "301722d9-cbe8-4640-994e-3cc6fe9a46b5",
+      "kind": "release",
+      "title": "Pixlume 0.9.1 — Pixlume 0.9.1 Beta 1 — Features & Improvements",
+      "description": "Pixlume 0.9.1 Beta 1 introduces new templates for Design and Write, improved document creation and file opening, enhanced business card editing with individual card selection, a refined user interface, and important bug fixes for a smoother, more reliable creative experience.",
+      "version": "0.9.1",
+      "build": "45",
+      "publishedAt": "2026-11-05T18:20:00.000Z",
+      "updatedAt": "2026-11-05T23:20:44.317Z",
+      "platforms": [
+        "macOS"
+      ],
+      "minimumOS": "macOS 14 Sonoma",
+      "architectures": "Apple silicon and Intel",
+      "bodyMarkdown": "Pixlume 0.9.1 Beta 1 introduces new templates for Design and Write, improved document creation and file opening, enhanced business card editing with individual card selection, a refined user interface, and important bug fixes for a smoother, more reliable creative experience.\n\n## New features\nNew Features — Pixlume 0.9.1 Beta 1\r\n\r\n* 60 New Templates: Introducing 30 customizable templates for Pixlume Design and 30 for Pixlume Write.\r\n* Template Gallery: Browse templates by category, search for designs, save favorites, and access recently used templates.\r\n* New Document Selection: A redesigned experience for choosing document types, sizes, and presets when starting a project.\r\n* Individual Business Card Editing: Select and customize individual cards within a full-page sheet, allowing different content in each slot.\r\n* Independent Front and Back Designs: Create unique content for each side of a double-sided business card sheet.\n\n## Improvements\nImprovements — Pixlume 0.9.1 Beta 1\r\n\r\n* Refined Pixlume Write Interface: Cleaner toolbars, improved alignment, and a more consistent workspace layout.\r\n* Enhanced Business Card Layouts: Better card positioning, full-page sheet organization, and front-to-back layout handling.\r\n* Improved Image Controls: More intuitive image placement, resizing, replacement, and fitting within card slots.\r\n* More Reliable File Opening: Improved document routing and handling of unsupported or damaged files.\r\n* Better Workspace Organization: Reduced duplicate interface elements and improved consistency between Design and Write.\r\n* General Usability Enhancements: Refinements to existing editing workflows and navigation.\n\n## Bug fixes\nBug Fixes — Pixlume 0.9.1 Beta 1\r\n\r\n* Unexpected Blank Documents: Fixed an issue where opening files could create unnecessary blank documents or tabs.\r\n* File Opening Errors: Improved handling of unsupported or damaged files to prevent incorrect editor behavior.\r\n* Document Launch Issues: Fixed issues with files opening during application startup, ensuring they reach the correct workspace.\r\n* Business Card Editing: Addressed issues affecting individual card selection and content editing.\r\n* Business Card Layouts: Fixed layout inconsistencies affecting card placement and front/back sheet organization.\r\n* User Interface Issues: Corrected duplicate interface elements and inconsistent toolbar layouts.\r\n* General Bug Fixes: Addressed various reported usability and reliability issues across Pixlume Design and Write.",
+      "url": "https://pixlume.app/releases/0.9.1",
+      "downloadURL": "https://pixlume.app/api/releases/301722d9-cbe8-4640-994e-3cc6fe9a46b5/download",
+      "fileName": "Pixlume.zip",
+      "fileSize": "13145311",
+      "sha256": "3bb345086ff59d8b4a3ad944292382a02f1c2b2a227a443c39c7edd6936e00e3",
+      "githubReleaseURL": "https://github.com/2s4k5hn28r-pixel/Pixlume.App/releases/tag/pixlume-301722d9-cbe8-4640-994e-3cc6fe9a46b5",
+      "githubDownloadURL": "https://github.com/2s4k5hn28r-pixel/Pixlume.App/releases/download/pixlume-301722d9-cbe8-4640-994e-3cc6fe9a46b5/Pixlume-301722d9-cbe8-4640-994e-3cc6fe9a46b5-3bb345086ff59d8b4a3ad944292382a02f1c2b2a227a443c39c7edd6936e00e3.zip"
+    },
     {
       "id": "07c544a3-1570-495a-be5b-b262595d65c7",
       "kind": "release",
@@ -77,25 +100,25 @@
     }
   ],
   "latestRelease": {
-    "id": "07c544a3-1570-495a-be5b-b262595d65c7",
+    "id": "301722d9-cbe8-4640-994e-3cc6fe9a46b5",
     "kind": "release",
-    "title": "Pixlume 0.9.0",
-    "description": "",
-    "version": "0.9.0",
-    "build": "44",
-    "publishedAt": "2026-10-20T00:48:00.000Z",
-    "updatedAt": "2026-11-04T00:40:30.339Z",
+    "title": "Pixlume 0.9.1 — Pixlume 0.9.1 Beta 1 — Features & Improvements",
+    "description": "Pixlume 0.9.1 Beta 1 introduces new templates for Design and Write, improved document creation and file opening, enhanced business card editing with individual card selection, a refined user interface, and important bug fixes for a smoother, more reliable creative experience.",
+    "version": "0.9.1",
+    "build": "45",
+    "publishedAt": "2026-11-05T18:20:00.000Z",
+    "updatedAt": "2026-11-05T23:20:44.317Z",
     "platforms": [
       "macOS"
     ],
     "minimumOS": "macOS 14 Sonoma",
     "architectures": "Apple silicon and Intel",
-    "bodyMarkdown": "",
-    "url": "https://pixlume.app/releases/0.9.0",
-    "downloadURL": "https://pixlume.app/api/releases/07c544a3-1570-495a-be5b-b262595d65c7/download",
+    "bodyMarkdown": "Pixlume 0.9.1 Beta 1 introduces new templates for Design and Write, improved document creation and file opening, enhanced business card editing with individual card selection, a refined user interface, and important bug fixes for a smoother, more reliable creative experience.\n\n## New features\nNew Features — Pixlume 0.9.1 Beta 1\r\n\r\n* 60 New Templates: Introducing 30 customizable templates for Pixlume Design and 30 for Pixlume Write.\r\n* Template Gallery: Browse templates by category, search for designs, save favorites, and access recently used templates.\r\n* New Document Selection: A redesigned experience for choosing document types, sizes, and presets when starting a project.\r\n* Individual Business Card Editing: Select and customize individual cards within a full-page sheet, allowing different content in each slot.\r\n* Independent Front and Back Designs: Create unique content for each side of a double-sided business card sheet.\n\n## Improvements\nImprovements — Pixlume 0.9.1 Beta 1\r\n\r\n* Refined Pixlume Write Interface: Cleaner toolbars, improved alignment, and a more consistent workspace layout.\r\n* Enhanced Business Card Layouts: Better card positioning, full-page sheet organization, and front-to-back layout handling.\r\n* Improved Image Controls: More intuitive image placement, resizing, replacement, and fitting within card slots.\r\n* More Reliable File Opening: Improved document routing and handling of unsupported or damaged files.\r\n* Better Workspace Organization: Reduced duplicate interface elements and improved consistency between Design and Write.\r\n* General Usability Enhancements: Refinements to existing editing workflows and navigation.\n\n## Bug fixes\nBug Fixes — Pixlume 0.9.1 Beta 1\r\n\r\n* Unexpected Blank Documents: Fixed an issue where opening files could create unnecessary blank documents or tabs.\r\n* File Opening Errors: Improved handling of unsupported or damaged files to prevent incorrect editor behavior.\r\n* Document Launch Issues: Fixed issues with files opening during application startup, ensuring they reach the correct workspace.\r\n* Business Card Editing: Addressed issues affecting individual card selection and content editing.\r\n* Business Card Layouts: Fixed layout inconsistencies affecting card placement and front/back sheet organization.\r\n* User Interface Issues: Corrected duplicate interface elements and inconsistent toolbar layouts.\r\n* General Bug Fixes: Addressed various reported usability and reliability issues across Pixlume Design and Write.",
+    "url": "https://pixlume.app/releases/0.9.1",
+    "downloadURL": "https://pixlume.app/api/releases/301722d9-cbe8-4640-994e-3cc6fe9a46b5/download",
     "fileName": "Pixlume.zip",
-    "fileSize": "6754935",
-    "sha256": "2014fb894f9f6d8198e49390abfeb69868851c90a33d65b0aa9a8cb2747f0e04"
+    "fileSize": "13145311",
+    "sha256": "3bb345086ff59d8b4a3ad944292382a02f1c2b2a227a443c39c7edd6936e00e3"
   },
   "updateNotification": {
     "title": "A New Pixlume Update Is Available!",
