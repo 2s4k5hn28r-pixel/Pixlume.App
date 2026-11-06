@@ -1,10 +1,32 @@
 {
   "schemaVersion": 1,
-  "revision": "4035d86110b48d60ee2cbe00997cfbaa22f19d5d34d44446809876fcfd4fdcf6",
+  "revision": "e690fe12cfd636fdce1db84eadcb8e0258188fde17dd6ef11c4cd8d421a6f94e",
   "homePageURL": "https://pixlume.app",
   "feedURL": "https://pixlume.app/api/news",
-  "updatedAt": "2026-11-05T23:20:44.317Z",
+  "updatedAt": "2026-11-06T01:12:47.757Z",
   "announcements": [
+    {
+      "id": "a62b0114-2766-4dea-a581-de8d76884b84",
+      "title": "We’re Aware of Current Issues and Working on Fixes",
+      "summary": "We’re aware that some users may be experiencing issues with Pixlume, including difficulties opening existing documents. Our team is actively investigating these issues and working on fixes to improve stability and reliability.\r\nThank you for your patience as we continue improving Pixlume.",
+      "publishedAt": "2026-11-06T01:12:47.757Z",
+      "updatedAt": "2026-11-06T01:12:47.757Z",
+      "category": "news",
+      "categoryLabel": "Pixlume News",
+      "body": "We’re Aware of Current Issues and Working on Fixes\nWe’re aware of several issues affecting the current version of Pixlume, and we’re actively working to address them.\nOne of the issues under investigation involves opening previously saved documents. Some users may experience difficulties accessing their existing projects.\nOur development efforts are currently focused on improving application stability, document handling, and overall reliability across Pixlume Design and Pixlume Write.\nWe’re also continuing to improve the automatic update system to make future fixes and improvements easier to deliver.\nWhat’s Next?\nWe’ll share additional information as fixes are completed and verified.\nThank you for your patience and continued support as we work to make Pixlume better.",
+      "bodyMarkdown": "We’re Aware of Current Issues and Working on Fixes\r\n\r\nWe’re aware of several issues affecting the current version of Pixlume, and we’re actively working to address them.\r\n\r\nOne of the issues under investigation involves opening previously saved documents. Some users may experience difficulties accessing their existing projects.\r\n\r\nOur development efforts are currently focused on improving application stability, document handling, and overall reliability across Pixlume Design and Pixlume Write.\r\n\r\nWe’re also continuing to improve the automatic update system to make future fixes and improvements easier to deliver.\r\n\r\nWhat’s Next?\r\n\r\nWe’ll share additional information as fixes are completed and verified.\r\n\r\nThank you for your patience and continued support as we work to make Pixlume better.",
+      "url": "https://pixlume.app/news/we-re-aware-of-current-issues-and-working-on-fixes",
+      "featured": false,
+      "pinned": false,
+      "date": "2026-11-06T01:12:47.757Z",
+      "showInApp": true,
+      "kind": "announcement",
+      "description": "We’re aware that some users may be experiencing issues with Pixlume, including difficulties opening existing documents. Our team is actively investigating these issues and working on fixes to improve stability and reliability.\r\nThank you for your patience as we continue improving Pixlume.",
+      "platforms": [
+        "macOS",
+        "iPadOS"
+      ]
+    },
     {
       "id": "7b39fe4f-5a17-462a-8d5a-46def57c1f19",
       "title": "Pixlume 0.9.0 Beta 1 is now available!",
