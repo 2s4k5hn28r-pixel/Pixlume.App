@@ -1,0 +1,256 @@
+{
+  "schemaVersion": 1,
+  "revision": "35b11b8d27d2bc12ecf5288c47a10fe5f03c8fff9eb1944396273561a2bcf4a8",
+  "homePageURL": "https://pixlume.app",
+  "feedURL": "https://pixlume.app/api/news",
+  "updatedAt": "2026-11-12T03:39:18.435Z",
+  "announcements": [
+    {
+      "id": "9b43e2f7-2f01-4c68-84d6-c606b14dfc22",
+      "title": "Pixlume 0.9.3 & 0.9.4 Beta Released — Major Improvements, New Features & Bug Fixes",
+      "summary": "Pixlume 0.9.3 and 0.9.4 Beta bring improved subject selection, refined color adjustments, better performance, and a cleaner workspace. These releases also fix document-saving issues, improve stability with a 10-document limit, and simplify PSD imports.",
+      "publishedAt": "2026-11-12T03:39:18.435Z",
+      "updatedAt": "2026-11-12T03:39:18.435Z",
+      "category": "news",
+      "categoryLabel": "Pixlume News",
+      "body": "Pixlume 0.9.3 & 0.9.4 Beta Released — Major Improvements, New Features & Bug Fixes\nNovember 11, 2026\nWe’re excited to announce two new Pixlume beta updates: Pixlume 0.9.3 Beta 1 (Build 47) and Pixlume 0.9.4 Beta (Build 48)!\nThese releases bring significant improvements to performance, stability, document editing, and the overall creative experience.\nWhat’s New in Pixlume 0.9.3\nSmarter Subject Selection\nSubject selection has been improved to deliver more accurate results, particularly around image edges and corners. This makes selecting and editing subjects more precise and reliable.\nEnhanced Color Adjustments\nColor balance, saturation, levels, and other image adjustment tools have been refined for a smoother editing experience. Adjustment controls now remain within their intended panels instead of unexpectedly expanding across the workspace.\nImproved Document Viewing\nDocuments now open at more comfortable zoom levels, making it easier to view and work with entire pages. Improved page-fitting controls also make navigating designs more convenient.\nA Cleaner, More Consistent Workspace\nWe’ve refined the Pixlume interface with:\n\nMore consistent panel sizes and button positioning.\nCard Sheet and Table controls integrated into the right sidebar.\nImproved document navigation and editing layouts.\nFixes for Templates gallery navigation.\nCorrect filenames when importing PSD documents.\nUpdated Export As shortcut: Command + Option + Shift + W.\n\nWhat’s New in Pixlume 0.9.4\nAutomatic Photoshop PSD Opening\nPSD files now open directly in Pixlume Design without displaying unnecessary conversion confirmation dialogs, making the import process faster and simpler.\nImproved Multi-Document Stability\nPixlume now supports a maximum of 10 simultaneously open documents. This safeguard helps prevent crashes and instability when working with multiple documents.\nFixed “Don’t Save” Behavior\nWe’ve resolved an issue where selecting “Don’t Save” could leave discarded documents or unsaved-change warnings active.\nDocuments now close more reliably without prompting users again about changes they already chose to discard.\nPerformance and Reliability\nBoth updates focus on delivering a faster, more stable, and more polished Pixlume experience.\nFrom improved image editing and document handling to more consistent interface behavior, these changes help make everyday creative work smoother and more enjoyable.\nWhat’s Next?\nWe’re continuing to improve Pixlume Design and Pixlume Write with new capabilities, performance optimizations, and refinements based on real-world testing and feedback.\nThank you to everyone supporting Pixlume during its beta development. Your feedback helps shape the future of the application.\nDownload the latest Pixlume beta and experience the improvements today.\nVisit: https://pixlume.app",
+      "bodyMarkdown": "Pixlume 0.9.3 & 0.9.4 Beta Released — Major Improvements, New Features & Bug Fixes\r\n\r\nNovember 11, 2026\r\n\r\nWe’re excited to announce two new Pixlume beta updates: Pixlume 0.9.3 Beta 1 (Build 47) and Pixlume 0.9.4 Beta (Build 48)!\r\n\r\nThese releases bring significant improvements to performance, stability, document editing, and the overall creative experience.\r\n\r\nWhat’s New in Pixlume 0.9.3\r\n\r\nSmarter Subject Selection\r\n\r\nSubject selection has been improved to deliver more accurate results, particularly around image edges and corners. This makes selecting and editing subjects more precise and reliable.\r\n\r\nEnhanced Color Adjustments\r\n\r\nColor balance, saturation, levels, and other image adjustment tools have been refined for a smoother editing experience. Adjustment controls now remain within their intended panels instead of unexpectedly expanding across the workspace.\r\n\r\nImproved Document Viewing\r\n\r\nDocuments now open at more comfortable zoom levels, making it easier to view and work with entire pages. Improved page-fitting controls also make navigating designs more convenient.\r\n\r\nA Cleaner, More Consistent Workspace\r\n\r\nWe’ve refined the Pixlume interface with:\r\n\r\n* More consistent panel sizes and button positioning.\r\n* Card Sheet and Table controls integrated into the right sidebar.\r\n* Improved document navigation and editing layouts.\r\n* Fixes for Templates gallery navigation.\r\n* Correct filenames when importing PSD documents.\r\n* Updated Export As shortcut: Command + Option + Shift + W.\r\n\r\nWhat’s New in Pixlume 0.9.4\r\n\r\nAutomatic Photoshop PSD Opening\r\n\r\nPSD files now open directly in Pixlume Design without displaying unnecessary conversion confirmation dialogs, making the import process faster and simpler.\r\n\r\nImproved Multi-Document Stability\r\n\r\nPixlume now supports a maximum of 10 simultaneously open documents. This safeguard helps prevent crashes and instability when working with multiple documents.\r\n\r\nFixed “Don’t Save” Behavior\r\n\r\nWe’ve resolved an issue where selecting “Don’t Save” could leave discarded documents or unsaved-change warnings active.\r\n\r\nDocuments now close more reliably without prompting users again about changes they already chose to discard.\r\n\r\nPerformance and Reliability\r\n\r\nBoth updates focus on delivering a faster, more stable, and more polished Pixlume experience.\r\n\r\nFrom improved image editing and document handling to more consistent interface behavior, these changes help make everyday creative work smoother and more enjoyable.\r\n\r\nWhat’s Next?\r\n\r\nWe’re continuing to improve Pixlume Design and Pixlume Write with new capabilities, performance optimizations, and refinements based on real-world testing and feedback.\r\n\r\nThank you to everyone supporting Pixlume during its beta development. Your feedback helps shape the future of the application.\r\n\r\nDownload the latest Pixlume beta and experience the improvements today.\r\n\r\nVisit: https://pixlume.app",
+      "url": "https://pixlume.app/news/pixlume-0-9-3-0-9-4-beta-released-major-improvements-new-features-bug-fixes",
+      "featured": false,
+      "pinned": false,
+      "date": "2026-11-12T03:39:18.435Z",
+      "showInApp": true,
+      "kind": "announcement",
+      "description": "Pixlume 0.9.3 and 0.9.4 Beta bring improved subject selection, refined color adjustments, better performance, and a cleaner workspace. These releases also fix document-saving issues, improve stability with a 10-document limit, and simplify PSD imports.",
+      "platforms": [
+        "macOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "id": "70052f5d-5553-4672-a0eb-f9e9c776a40a",
+      "title": "WE FIXED AUTOMATED UPDATES ON MAC!!!!",
+      "summary": "YAAAY",
+      "publishedAt": "2026-11-12T02:46:10.553Z",
+      "updatedAt": "2026-11-12T02:46:10.553Z",
+      "category": "news",
+      "categoryLabel": "Pixlume News",
+      "body": "",
+      "bodyMarkdown": "",
+      "url": "https://pixlume.app/news/we-fixed-automated-updates-on-mac",
+      "featured": false,
+      "pinned": false,
+      "date": "2026-11-12T02:46:10.553Z",
+      "showInApp": true,
+      "kind": "announcement",
+      "description": "YAAAY",
+      "platforms": [
+        "macOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "id": "a62b0114-2766-4dea-a581-de8d76884b84",
+      "title": "We’re Aware of Current Issues and Working on Fixes",
+      "summary": "We’re aware that some users may be experiencing issues with Pixlume, including difficulties opening existing documents. Our team is actively investigating these issues and working on fixes to improve stability and reliability.\r\nThank you for your patience as we continue improving Pixlume.",
+      "publishedAt": "2026-11-06T01:12:47.757Z",
+      "updatedAt": "2026-11-06T01:12:47.757Z",
+      "category": "news",
+      "categoryLabel": "Pixlume News",
+      "body": "We’re Aware of Current Issues and Working on Fixes\nWe’re aware of several issues affecting the current version of Pixlume, and we’re actively working to address them.\nOne of the issues under investigation involves opening previously saved documents. Some users may experience difficulties accessing their existing projects.\nOur development efforts are currently focused on improving application stability, document handling, and overall reliability across Pixlume Design and Pixlume Write.\nWe’re also continuing to improve the automatic update system to make future fixes and improvements easier to deliver.\nWhat’s Next?\nWe’ll share additional information as fixes are completed and verified.\nThank you for your patience and continued support as we work to make Pixlume better.",
+      "bodyMarkdown": "We’re Aware of Current Issues and Working on Fixes\r\n\r\nWe’re aware of several issues affecting the current version of Pixlume, and we’re actively working to address them.\r\n\r\nOne of the issues under investigation involves opening previously saved documents. Some users may experience difficulties accessing their existing projects.\r\n\r\nOur development efforts are currently focused on improving application stability, document handling, and overall reliability across Pixlume Design and Pixlume Write.\r\n\r\nWe’re also continuing to improve the automatic update system to make future fixes and improvements easier to deliver.\r\n\r\nWhat’s Next?\r\n\r\nWe’ll share additional information as fixes are completed and verified.\r\n\r\nThank you for your patience and continued support as we work to make Pixlume better.",
+      "url": "https://pixlume.app/news/we-re-aware-of-current-issues-and-working-on-fixes",
+      "featured": false,
+      "pinned": false,
+      "date": "2026-11-06T01:12:47.757Z",
+      "showInApp": true,
+      "kind": "announcement",
+      "description": "We’re aware that some users may be experiencing issues with Pixlume, including difficulties opening existing documents. Our team is actively investigating these issues and working on fixes to improve stability and reliability.\r\nThank you for your patience as we continue improving Pixlume.",
+      "platforms": [
+        "macOS",
+        "iPadOS"
+      ]
+    },
+    {
+      "id": "7b39fe4f-5a17-462a-8d5a-46def57c1f19",
+      "title": "Pixlume 0.9.0 Beta 1 is now available!",
+      "summary": "Pixlume 0.9.0 Beta 1 is now available!",
+      "publishedAt": "2026-11-03T20:10:00.000Z",
+      "updatedAt": "2026-11-04T01:12:58.793Z",
+      "category": "news",
+      "categoryLabel": "Pixlume News",
+      "body": "We’re excited to announce the release of Pixlume 0.9.0 Beta 1! This release marks another step forward in Pixlume’s development, focusing on refining the experience across Pixlume Design and Pixlume Write. We’re continuing to improve reliability, compatibility, and everyday creative workflows as we prepare for future releases. Thank you to everyone helping us test Pixlume. Your feedback is helping shape the future of the app.",
+      "bodyMarkdown": "We’re excited to announce the release of Pixlume 0.9.0 Beta 1! This release marks another step forward in Pixlume’s development, focusing on refining the experience across Pixlume Design and Pixlume Write. We’re continuing to improve reliability, compatibility, and everyday creative workflows as we prepare for future releases. Thank you to everyone helping us test Pixlume. Your feedback is helping shape the future of the app.",
+      "url": "https://pixlume.app/news/pixlume-0-9-0-beta-1-is-now-available",
+      "featured": false,
+      "pinned": false,
+      "date": "2026-11-03T20:10:00.000Z",
+      "showInApp": true,
+      "kind": "announcement",
+      "description": "Pixlume 0.9.0 Beta 1 is now available!",
+      "platforms": [
+        "macOS",
+        "iPadOS"
+      ]
+    }
+  ],
+  "releases": [
+    {
+      "id": "e035f4c5-4468-43e4-860d-13e02a79b132",
+      "kind": "release",
+      "title": "Pixlume 0.9.4 — Pixlume 0.9.4 Beta",
+      "description": "Pixlume 0.9.4 Beta (Build 48) focuses on improving stability, document management, and workflow efficiency. This update fixes the Don’t Save behavior, introduces a 10-document limit to prevent crashes, and streamlines Photoshop PSD imports by opening files directly without unnecessary conversion dialogs. These improvements deliver a smoother and more reliable Pixlume experience on macOS.",
+      "version": "0.9.4",
+      "build": "48",
+      "publishedAt": "2026-11-12T03:27:00.000Z",
+      "updatedAt": "2026-11-12T03:29:20.986Z",
+      "platforms": [
+        "macOS"
+      ],
+      "minimumOS": "macOS 14 Sonoma",
+      "architectures": "Apple silicon and Intel",
+      "bodyMarkdown": "Pixlume 0.9.4 Beta (Build 48) focuses on improving stability, document management, and workflow efficiency. This update fixes the Don’t Save behavior, introduces a 10-document limit to prevent crashes, and streamlines Photoshop PSD imports by opening files directly without unnecessary conversion dialogs. These improvements deliver a smoother and more reliable Pixlume experience on macOS.\n\n## New features\n10-Document Workspace Limit: Pixlume now supports up to 10 open documents simultaneously, preventing users from exceeding the workspace’s supported capacity.\r\n \r\n\r\nYou should now be getting a message when a new update is available.\n\n## Improvements\nAutomatic PSD Opening: Photoshop PSD files now open directly in Pixlume Design without requiring a conversion confirmation.\r\n\r\nImproved Workspace Stability: Document management has been optimized by limiting the number of simultaneously open tabs to 10.\n\n## Bug fixes\nDon’t Save Fix: Fixed an issue where selecting “Don’t Save” failed to fully discard a document’s unsaved changes, resulting in unnecessary warnings when closing Pixlume.\r\n\r\nMultiple Tab Crash Fix: Fixed crashes caused by attempting to open too many documents simultaneously. Pixlume now enforces a maximum of 10 open document tabs.\r\n\r\nPSD Import Fix: Removed the unnecessary conversion pop-up when opening Photoshop PSD files, allowing documents to open directly.",
+      "url": "https://pixlume.app/releases/0.9.4",
+      "downloadURL": "https://pixlume.app/api/releases/e035f4c5-4468-43e4-860d-13e02a79b132/download",
+      "fileName": "Pixlume.zip",
+      "fileSize": "13649722",
+      "sha256": "a53d8612effc8432fcc787202d51caef39ffe483ad9ebeec4ea4ebdbb5867d0f"
+    },
+    {
+      "id": "0a2627a3-6504-44df-a6fc-91978261ae1e",
+      "kind": "release",
+      "title": "Pixlume 0.9.3 — Pixlume 0.9.3 Beta 1.",
+      "description": "Pixlume 0.9.3 Beta 1 brings improvements to Design and Write, including smoother navigation, improved editing panels, better document handling, more consistent layouts, enhanced subject selection, and a new update notification experience. This release also fixes several bugs to improve usability and stability.",
+      "version": "0.9.3",
+      "build": "47",
+      "publishedAt": "2026-11-12T02:42:00.000Z",
+      "updatedAt": "2026-11-12T02:43:27.242Z",
+      "platforms": [
+        "macOS"
+      ],
+      "minimumOS": "macOS 14 Sonoma",
+      "architectures": "Apple silicon",
+      "bodyMarkdown": "Pixlume 0.9.3 Beta 1 brings improvements to Design and Write, including smoother navigation, improved editing panels, better document handling, more consistent layouts, enhanced subject selection, and a new update notification experience. This release also fixes several bugs to improve usability and stability.\n\n## New features\nAutomatic Update Notifications: New startup notification displays available updates, release notes, and options to Update Now or Remind Me Later.\r\n\r\nShapes Tool (Beta): The Shapes feature is now visible in Pixlume Design. Some tools remain under development.\r\n\r\nImproved Write Editing Panels: Business Card Sheets and table editing controls are now integrated into the right sidebar instead of floating windows.\n\n## Improvements\nPixlume Write: Improved document opening to display the full page at a more comfortable zoom level.\r\n\r\nEditing Panels: Card Sheet and Table controls now appear in the right sidebar for a cleaner, more consistent workspace.\r\n\r\nPixlume Design: Improved color, saturation, levels, and other adjustment controls to prevent unwanted full-screen panels.\r\n\r\nSubject Selection: Improved selection accuracy around image edges and corners.\r\n\r\nWorkspace Layout: Standardized feature panel sizes and improved button positioning throughout the application.\r\n\r\nExport Workflow: Updated the Export As keyboard shortcut to Command + Option + Shift + W.\n\n## Bug fixes\nTemplates Navigation: Fixed Home and Back buttons not responding correctly in the Templates gallery.\r\n\r\nPSD File Names: Fixed imported Photoshop files displaying “Unknown” instead of their original filenames.\r\n\r\nDesign Adjustment Panels: Fixed color, saturation, levels, and other adjustment controls unexpectedly expanding into full-screen panels.\r\n\r\nSubject Selection: Fixed selection boundaries incorrectly rounding or cutting off image corners and edges.\r\n\r\nWorkspace Layout: Fixed misplaced, inconsistent, and unexpectedly floating interface buttons.\r\n\r\nFeature Panels: Fixed inconsistent panel sizes throughout the workspace.\r\n\r\nWrite Document Zoom: Fixed documents opening excessively zoomed in instead of displaying the full page.\r\n\r\nWrite Editing Panels: Fixed floating Card Sheet and Table controls by integrating them into the right sidebar.",
+      "url": "https://pixlume.app/releases/0.9.3",
+      "downloadURL": "https://pixlume.app/api/releases/0a2627a3-6504-44df-a6fc-91978261ae1e/download",
+      "fileName": "Pixlume.zip",
+      "fileSize": "13599316",
+      "sha256": "dd7c992b5483b72c9d23199d61d7c53a3078935275646f90a16b5e7fc3317429"
+    },
+    {
+      "id": "0bb2033f-0f72-4bd2-b5bc-cb3c5b290421",
+      "kind": "release",
+      "title": "Pixlume 0.9.2 — Pixlume 0.9.2 Beta 1",
+      "description": "Pixlume 0.9.2 Beta 1 introduces new features, important improvements, bug fixes, and RAM and performance optimizations for macOS. This update focuses on enhancing Pixlume Design and Pixlume Write, improving stability, refining creative workflows, and delivering a faster, more efficient desktop experience.",
+      "version": "0.9.2",
+      "build": "46",
+      "publishedAt": "2026-11-11T23:47:00.000Z",
+      "updatedAt": "2026-11-12T00:36:43.555Z",
+      "platforms": [
+        "macOS"
+      ],
+      "minimumOS": "macOS 14 Sonoma",
+      "architectures": "Apple silicon",
+      "bodyMarkdown": "Pixlume 0.9.2 Beta 1 introduces new features, important improvements, bug fixes, and RAM and performance optimizations for macOS. This update focuses on enhancing Pixlume Design and Pixlume Write, improving stability, refining creative workflows, and delivering a faster, more efficient desktop experience.\n\n## New features\n* Expanded editable templates for Pixlume Design and Pixlume Write.\r\n* Enhanced table creation and editing in Pixlume Write.\r\n* Improved document-opening and importing workflows.\r\n* Additional document editing and customization capabilities.\r\n* New Templates page where you can select any of the incuded Designs to try out.\n\n## Improvements\n* RAM and memory management optimizations.\r\n* Improved application responsiveness and efficiency.\r\n* More efficient document loading and handling.\r\n* Smoother workspace navigation and document management.\r\n* Improved multitasking with multiple documents open.\r\n* Refined creative workflows and editing interactions.\r\n* Enhanced overall macOS stability and usability.\n\n## Bug fixes\n* Addressed document-opening and importing issues.\r\n* Fixed problems with document tab switching and closing.\r\n* Addressed application freezes and unresponsive workspace behavior.\r\n* Improved reliability of document management.\r\n* Fixed inconsistencies in editing and navigation.\r\n* Additional stability fixes across Pixlume Design and Pixlume Write.",
+      "url": "https://pixlume.app/releases/0.9.2",
+      "downloadURL": "https://pixlume.app/api/releases/0bb2033f-0f72-4bd2-b5bc-cb3c5b290421/download",
+      "fileName": "Pixlume.zip",
+      "fileSize": "13465882",
+      "sha256": "30abeaf5e206a2facaac0919fd59ca5738173e016dcad98a35397a726a504ac0"
+    },
+    {
+      "id": "301722d9-cbe8-4640-994e-3cc6fe9a46b5",
+      "kind": "release",
+      "title": "Pixlume 0.9.1 — Pixlume 0.9.1 Beta 1 — Features & Improvements",
+      "description": "Pixlume 0.9.1 Beta 1 introduces new templates for Design and Write, improved document creation and file opening, enhanced business card editing with individual card selection, a refined user interface, and important bug fixes for a smoother, more reliable creative experience.",
+      "version": "0.9.1",
+      "build": "45",
+      "publishedAt": "2026-11-05T18:20:00.000Z",
+      "updatedAt": "2026-11-05T23:20:44.317Z",
+      "platforms": [
+        "macOS"
+      ],
+      "minimumOS": "macOS 14 Sonoma",
+      "architectures": "Apple silicon and Intel",
+      "bodyMarkdown": "Pixlume 0.9.1 Beta 1 introduces new templates for Design and Write, improved document creation and file opening, enhanced business card editing with individual card selection, a refined user interface, and important bug fixes for a smoother, more reliable creative experience.\n\n## New features\nNew Features — Pixlume 0.9.1 Beta 1\r\n\r\n* 60 New Templates: Introducing 30 customizable templates for Pixlume Design and 30 for Pixlume Write.\r\n* Template Gallery: Browse templates by category, search for designs, save favorites, and access recently used templates.\r\n* New Document Selection: A redesigned experience for choosing document types, sizes, and presets when starting a project.\r\n* Individual Business Card Editing: Select and customize individual cards within a full-page sheet, allowing different content in each slot.\r\n* Independent Front and Back Designs: Create unique content for each side of a double-sided business card sheet.\n\n## Improvements\nImprovements — Pixlume 0.9.1 Beta 1\r\n\r\n* Refined Pixlume Write Interface: Cleaner toolbars, improved alignment, and a more consistent workspace layout.\r\n* Enhanced Business Card Layouts: Better card positioning, full-page sheet organization, and front-to-back layout handling.\r\n* Improved Image Controls: More intuitive image placement, resizing, replacement, and fitting within card slots.\r\n* More Reliable File Opening: Improved document routing and handling of unsupported or damaged files.\r\n* Better Workspace Organization: Reduced duplicate interface elements and improved consistency between Design and Write.\r\n* General Usability Enhancements: Refinements to existing editing workflows and navigation.\n\n## Bug fixes\nBug Fixes — Pixlume 0.9.1 Beta 1\r\n\r\n* Unexpected Blank Documents: Fixed an issue where opening files could create unnecessary blank documents or tabs.\r\n* File Opening Errors: Improved handling of unsupported or damaged files to prevent incorrect editor behavior.\r\n* Document Launch Issues: Fixed issues with files opening during application startup, ensuring they reach the correct workspace.\r\n* Business Card Editing: Addressed issues affecting individual card selection and content editing.\r\n* Business Card Layouts: Fixed layout inconsistencies affecting card placement and front/back sheet organization.\r\n* User Interface Issues: Corrected duplicate interface elements and inconsistent toolbar layouts.\r\n* General Bug Fixes: Addressed various reported usability and reliability issues across Pixlume Design and Write.",
+      "url": "https://pixlume.app/releases/0.9.1",
+      "downloadURL": "https://pixlume.app/api/releases/301722d9-cbe8-4640-994e-3cc6fe9a46b5/download",
+      "fileName": "Pixlume.zip",
+      "fileSize": "13145311",
+      "sha256": "3bb345086ff59d8b4a3ad944292382a02f1c2b2a227a443c39c7edd6936e00e3"
+    },
+    {
+      "id": "07c544a3-1570-495a-be5b-b262595d65c7",
+      "kind": "release",
+      "title": "Pixlume 0.9.0",
+      "description": "",
+      "version": "0.9.0",
+      "build": "44",
+      "publishedAt": "2026-10-20T00:48:00.000Z",
+      "updatedAt": "2026-11-04T00:40:30.339Z",
+      "platforms": [
+        "macOS"
+      ],
+      "minimumOS": "macOS 14 Sonoma",
+      "architectures": "Apple silicon and Intel",
+      "bodyMarkdown": "",
+      "url": "https://pixlume.app/releases/0.9.0",
+      "downloadURL": "https://pixlume.app/api/releases/07c544a3-1570-495a-be5b-b262595d65c7/download",
+      "fileName": "Pixlume.zip",
+      "fileSize": "6754935",
+      "sha256": "2014fb894f9f6d8198e49390abfeb69868851c90a33d65b0aa9a8cb2747f0e04"
+    },
+    {
+      "id": "778e0659-ce96-41d6-b0d9-a53961b2111f",
+      "kind": "release",
+      "title": "Pixlume 0.8.0 — Pixlume 0.8.0 Beta 1 — The Creative Suite Preview",
+      "description": "Your creativity. One workspace. Endless possibilities.\r\n\r\nIntroducing the first beta of Pixlume, a native creative suite for macOS that brings professional photo editing, graphic design, document creation, and PDF editing together in one seamless workspace.\r\n\r\nWith Pixlume Design and Pixlume Write, you can move between visual projects and documents without switching applications. Create layered designs, enhance images, format professional documents, and work with PDFs using powerful tools built around a unified, modern interface.\r\n\r\nThis first beta marks an exciting step toward our vision of making creative software more accessible, flexible, and enjoyable.",
+      "version": "0.8.0",
+      "build": null,
+      "publishedAt": "2026-10-19T21:00:00.000Z",
+      "updatedAt": "2026-11-03T23:38:21.745Z",
+      "platforms": [
+        "macOS"
+      ],
+      "minimumOS": "macOS 14 Sonoma",
+      "architectures": "Apple silicon and Intel",
+      "bodyMarkdown": "Your creativity. One workspace. Endless possibilities.\r\n\r\nIntroducing the first beta of Pixlume, a native creative suite for macOS that brings professional photo editing, graphic design, document creation, and PDF editing together in one seamless workspace.\r\n\r\nWith Pixlume Design and Pixlume Write, you can move between visual projects and documents without switching applications. Create layered designs, enhance images, format professional documents, and work with PDFs using powerful tools built around a unified, modern interface.\r\n\r\nThis first beta marks an exciting step toward our vision of making creative software more accessible, flexible, and enjoyable.\n\n## New features\nPixlume Design — Create Without Limits\r\n\r\n* Layer-Based Editing: Create and manage complex compositions using layers, groups, masks, blending modes, and effects.\r\n* Photoshop File Support: Import PSD and PSB documents, including supported layered content.\r\n* Professional Image Editing: Work with brushes, selections, transformations, color adjustments, and image effects.\r\n* Advanced Typography: Create and customize text with rich styling and artistic effects.\r\n* Text Warp: Transform typography using 15 warp presets and adjustable distortion controls.\r\n* Flexible Canvas: Create documents with custom dimensions, resolutions, orientations, and backgrounds.\r\n* Image Export: Export designs to popular image formats.\r\n\r\nPixlume Write — Create Beyond Words\r\n\r\n* Document Creation: Write and format documents with professional typography and page layouts.\r\n* DOCX Compatibility: Import and export Microsoft Word documents with supported formatting.\r\n* Tables and Images: Combine text, images, and structured content.\r\n* Page Layout Tools: Customize page dimensions, orientation, margins, and document formatting.\r\n* Artistic Text: Add creative typography and visual text effects.\r\n* Duplex Card Designer: Create front-and-back cards with customizable dimensions, image fitting, and print layouts.\r\n* PDF Export: Turn your documents into shareable PDF files.\r\n\r\nPixlume PDF — Take Control of Your Documents\r\n\r\n* PDF Viewing: Open and navigate multipage PDF documents.\r\n* Annotations: Highlight, underline, draw, and add notes.\r\n* PDF Organization: Reorder, rotate, duplicate, extract, merge, and split pages.\r\n* Forms and Signatures: Fill supported PDF forms and add signatures.\r\n* Content Editing: Edit supported PDF text, images, and vector elements, with limitations for certain PDF structures.\r\n* Export Tools: Save and export PDF content.\r\n\r\nCreative Flow — Everything Connected\r\n\r\n* Unified Workspace: Access Design, Write, and PDF tools in one application.\r\n* Document Tabs: Switch between projects without opening separate editor windows.\r\n* Recovery and Autosave: Help protect unfinished work with recovery backups.\r\n* Recent Projects: Return to previously opened documents.\r\n* Native macOS Experience: Familiar menus, keyboard shortcuts, and system integration.\r\n* Consistent Interface: Shared controls and styling across creative workspaces.\n\n## Improvements\nPixlume is currently in active development. Some features may be incomplete, behave unexpectedly, or change in future updates.\r\n\r\nKnown limitations may include printing, advanced document compatibility, and certain editing operations.\r\n\r\nWe recommend keeping backup copies of important projects while testing this beta.\r\n\r\nHelp Shape Pixlume\r\n\r\nYour feedback helps make Pixlume better.\r\n\r\nFound a bug? Have an idea for a new feature? Use the feedback tools on our website to share your experience.\r\n\r\nDownload Pixlume for Mac — Free Beta\r\n\r\nCreate beyond limits. Create with Pixlume.",
+      "url": "https://pixlume.app/releases/0.8.0",
+      "downloadURL": "https://pixlume.app/api/releases/778e0659-ce96-41d6-b0d9-a53961b2111f/download",
+      "fileName": "Pixlume.zip",
+      "fileSize": "9899257",
+      "sha256": "a636e0a1437d4df032874d5f8608cdf0235226892a4ed5203675b51f1ee45cff"
+    }
+  ],
+  "latestRelease": {
+    "id": "e035f4c5-4468-43e4-860d-13e02a79b132",
+    "kind": "release",
+    "title": "Pixlume 0.9.4 — Pixlume 0.9.4 Beta",
+    "description": "Pixlume 0.9.4 Beta (Build 48) focuses on improving stability, document management, and workflow efficiency. This update fixes the Don’t Save behavior, introduces a 10-document limit to prevent crashes, and streamlines Photoshop PSD imports by opening files directly without unnecessary conversion dialogs. These improvements deliver a smoother and more reliable Pixlume experience on macOS.",
+    "version": "0.9.4",
+    "build": "48",
+    "publishedAt": "2026-11-12T03:27:00.000Z",
+    "updatedAt": "2026-11-12T03:29:20.986Z",
+    "platforms": [
+      "macOS"
+    ],
+    "minimumOS": "macOS 14 Sonoma",
+    "architectures": "Apple silicon and Intel",
+    "bodyMarkdown": "Pixlume 0.9.4 Beta (Build 48) focuses on improving stability, document management, and workflow efficiency. This update fixes the Don’t Save behavior, introduces a 10-document limit to prevent crashes, and streamlines Photoshop PSD imports by opening files directly without unnecessary conversion dialogs. These improvements deliver a smoother and more reliable Pixlume experience on macOS.\n\n## New features\n10-Document Workspace Limit: Pixlume now supports up to 10 open documents simultaneously, preventing users from exceeding the workspace’s supported capacity.\r\n \r\n\r\nYou should now be getting a message when a new update is available.\n\n## Improvements\nAutomatic PSD Opening: Photoshop PSD files now open directly in Pixlume Design without requiring a conversion confirmation.\r\n\r\nImproved Workspace Stability: Document management has been optimized by limiting the number of simultaneously open tabs to 10.\n\n## Bug fixes\nDon’t Save Fix: Fixed an issue where selecting “Don’t Save” failed to fully discard a document’s unsaved changes, resulting in unnecessary warnings when closing Pixlume.\r\n\r\nMultiple Tab Crash Fix: Fixed crashes caused by attempting to open too many documents simultaneously. Pixlume now enforces a maximum of 10 open document tabs.\r\n\r\nPSD Import Fix: Removed the unnecessary conversion pop-up when opening Photoshop PSD files, allowing documents to open directly.",
+    "url": "https://pixlume.app/releases/0.9.4",
+    "downloadURL": "https://pixlume.app/api/releases/e035f4c5-4468-43e4-860d-13e02a79b132/download",
+    "fileName": "Pixlume.zip",
+    "fileSize": "13649722",
+    "sha256": "a53d8612effc8432fcc787202d51caef39ffe483ad9ebeec4ea4ebdbb5867d0f"
+  },
+  "updateNotification": {
+    "title": "A New Pixlume Update Is Available!",
+    "actions": [
+      "Update Now",
+      "Remind Me Later",
+      "What’s New"
+    ],
+    "mode": "download",
+    "sparkleConfiguredByThisIntegration": false
+  }
+}
